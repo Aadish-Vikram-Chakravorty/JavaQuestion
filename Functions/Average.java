@@ -13,6 +13,6 @@ public class Average {
         int a = sc.nextInt();
         int b = sc.nextInt();
         int c = sc.nextInt();
-        int d = printAve(a, b, c);
+        int e = printAve(a, b, c);
     }
 }
